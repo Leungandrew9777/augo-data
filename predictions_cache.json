@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:53:55.463132",
+  "generated_at": "2026-09-18T02:56:58.375542",
   "gameweek": "GW5",
   "predictions": [
     {
@@ -960,7 +960,7 @@
       "date": "2026-09-20",
       "home_team": "Bournemouth",
       "away_team": "Liverpool",
-      "B365H": 3.06,
+      "B365H": 3.0625,
       "B365D": 3.745,
       "B365A": 2.1445,
       "elo_home": 1681.1041742485334,
@@ -1016,12 +1016,12 @@
       "badge_away": "https://resources.premierleague.com/premierleague/badges/t14.png",
       "chart_label": "BOU v LIV",
       "model_pick": "D",
-      "book_odds_home": 3.06,
+      "book_odds_home": 3.0625,
       "book_odds_draw": 3.745,
       "book_odds_away": 2.1445,
-      "book_prob_home": 0.30826183411157,
-      "book_prob_draw": 0.25187749329276476,
-      "book_prob_away": 0.43986067259566525,
+      "book_prob_home": 0.3080877197045755,
+      "book_prob_draw": 0.25194089228177907,
+      "book_prob_away": 0.43997138801364544,
       "disp_book_odds_home": "3.06",
       "disp_book_odds_draw": "3.75",
       "disp_book_odds_away": "2.14",
